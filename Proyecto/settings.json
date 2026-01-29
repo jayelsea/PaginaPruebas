@@ -1,0 +1,19 @@
+{
+    "launch": {
+        "configurations": []
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\Kary\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "python.testing.unittestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-p",
+        "*.py"
+    ],
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+    "files.autoSave": "afterDelay"
+}
